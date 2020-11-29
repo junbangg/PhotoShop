@@ -1,5 +1,4 @@
-MID TERM PROJECT
-20143408 경영학부 방준석
+Photoshop application
 
 -첨부 되어있는 controlP5 폴더를 Processing->libraries 에 넣어야 코드가 작동
 -OPEN file 할 때 이미지 파일의 위치와 상관없이 찾아서 열기 가능
