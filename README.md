@@ -11,7 +11,7 @@ Processing
 
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/dame.png?raw=true)
 
-# 각종 필터 효과를 동시에 사용해서 원하는 효과를 얻을 수 있다
+## 각종 필터 효과를 동시에 사용해서 원하는 효과를 얻을 수 있다
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/reverse.png?raw=true)
 
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/animation.png?raw=true)
@@ -22,7 +22,7 @@ Processing
 
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/dame.png?raw=true)
 
-# Restore 누르면 편집하던 이미지의 원본으로 다시 복구
+## Restore 누르면 편집하던 이미지의 원본으로 다시 복구
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/dame.png?raw=true)
 
 
