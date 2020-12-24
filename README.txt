@@ -4,7 +4,7 @@
 -첨부 되어있는 controlP5 폴더를 Processing->libraries 에 넣어야 코드가 작동
 -OPEN file 할 때 이미지 파일의 위치와 상관없이 찾아서 열기 가능
 
-![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/Screen_Shot_2019-08-03_at_6.16.10_PM.png?raw=true)
+![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/Screen_Shot_2019-08-03_at_6.16.10_PM?raw=true)
 -SAVE file 할 때 인터페이스까지 캡처를 하지 않고, 사진 부분만 캡쳐 가능
 -Remove 누르면 편집하던 이미지가 사라진다
 -Restore 누르면 편집하던 이미지의 원본으로 다시 복구
