@@ -6,15 +6,17 @@ Processing
 # 사용법
 -첨부 되어있는 controlP5 폴더를 Processing->libraries 에 넣어야 코드가 작동
 
-### OPEN file 할 때 이미지 파일의 위치와 상관없이 찾아서 열기 가능
+### 이미지 파일의 위치와 상관없이 찾아서 열기 가능
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/Screen_Shot_2019-08-03_at_6.16.10_PM.png?raw=true)
 
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/dame.png?raw=true)
 
 ### 각종 필터 효과를 동시에 사용해서 원하는 효과를 얻을 수 있다
+![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/reverse.png?raw=true)
+
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/animation.png?raw=true)
 
-![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/reverse.png?raw=true)
+
 
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/sunny.png?raw=true)
 
