@@ -2,7 +2,7 @@
 
 # 사용법
 -첨부 되어있는 controlP5 폴더를 Processing->libraries 에 넣어야 코드가 작동
-###OPEN file 할 때 이미지 파일의 위치와 상관없이 찾아서 열기 가능
+### OPEN file 할 때 이미지 파일의 위치와 상관없이 찾아서 열기 가능
 ![alt text](https://github.com/junbangg/PhotoShop/blob/master/photoshop_example/dame.png?raw=true)
 
 
